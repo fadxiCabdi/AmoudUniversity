@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Amoud University</string>
+    <string name="faculty_of_computing_ict"><![CDATA[Faculty of Computing & iCT]]></string>
+    <string name="faculty_of_economics_political_science"><![CDATA[Faculty of Economics & Political Science]]></string>
+    <string name="faculty_of_business_public_administration"><![CDATA[Faculty of Business & Public Administration]]></string>
+    <string name="faculty_of_sharia_law"><![CDATA[Faculty of Sharia & Law]]></string>
+    <string name="freshman_department">Freshman Department</string>
+    <string name="faculty_of_education">Faculty of Education</string>
+    <string name="faculty_of_engineering">Faculty Of Engineering</string>
+    <string name="school_of_post_graduate">School Of Post Graduate</string>
+    <string name="fucalty_of_agricculture">Fucalty Of Agriculture</string>
+    <string name="faculty_of_agriculture">Faculty of Agriculture</string>
+    <string name="school_of_public_health">School of Public Health</string>
+    <string name="school_of_medicine">School of Medicine</string>
+    <string name="school_of_dentistry">School of Dentistry</string>
+    <string name="school_of_nursing">School of Nursing</string>
+    <string name="school_of_pharmacy">School of Pharmacy</string>
+    <string name="school_of_laboratory_technology">School of Laboratory Technology</string>
+    <string name="getintouch">GET IN TOUCH</string>
+    <string name="getint">Main Campus, Amoud University, Borama, Somaliland
+    Address: Amoud Valley, Borama, Awdal
+    Tel: +252 6 14144
+    Email: amouduniversity@hotmail.com
+    Hotline: +252 63 4458618</string>
+    <string name="history_background"><![CDATA[History & Background]]></string>
+</resources>
